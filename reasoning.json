@@ -1,0 +1,42 @@
+[
+  {
+    "question": "John is taller than Mary. Mary is taller than Alex. Who is tallest?",
+    "answer": "John"
+  },
+  {
+    "question": "All cats are animals. Tom is a cat. Is Tom an animal?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "answer": "42"
+  },
+  {
+    "question": "If CAT is coded as DBU, how is DOG coded?",
+    "answer": "EPH"
+  },
+  {
+    "question": "A train travels 120 km in 2 hours. What is its average speed?",
+    "answer": "60 km/h"
+  },
+  {
+    "question": "If all roses are flowers and some flowers are red, which conclusion is definitely true?",
+    "answer": "All roses are flowers"
+  },
+  {
+    "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+    "answer": "7.5°"
+  },
+  {
+    "question": "Find the next number in the series: 3, 9, 27, 81, ?",
+    "answer": "243"
+  },
+  {
+    "question": "If BOOK is coded as CPPL, how is PAGE coded?",
+    "answer": "QBHF"
+  },
+  {
+    "question": "A man walks 5 km north, then 3 km east. How far is he from his starting point?",
+    "answer": "√34 km (approximately 5.83 km)"
+  }
+]

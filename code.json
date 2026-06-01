@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Write a Python function to reverse a string",
+    "keywords": ["def", "return", "reverse"]
+  },
+  {
+    "question": "Write a Python function to find the maximum element in a list",
+    "keywords": ["def", "max", "return"]
+  },
+  {
+    "question": "Write a Python function to check whether a string is a palindrome",
+    "keywords": ["def", "palindrome", "return"]
+  },
+  {
+    "question": "Write a Python function to calculate the Fibonacci sequence up to n terms",
+    "keywords": ["def", "fibonacci", "return"]
+  },
+  {
+    "question": "Write a Python function to count the number of vowels in a string",
+    "keywords": ["def", "vowels", "return"]
+  }
+]

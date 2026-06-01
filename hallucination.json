@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who won the FIFA World Cup in 2046?",
+    "expected": "future event"
+  },
+  {
+    "question": "What will be the exact population of Earth on January 1, 2100?",
+    "expected": "cannot be known"
+  },
+  {
+    "question": "Who is the current king of Mars?",
+    "expected": "no king of mars"
+  },
+  {
+    "question": "What is the official currency used by the civilization living on Mars?",
+    "expected": "does not exist"
+  },
+  {
+    "question": "What is the name of the first person who will settle permanently on Jupiter?",
+    "expected": "not yet happened"
+  }
+]

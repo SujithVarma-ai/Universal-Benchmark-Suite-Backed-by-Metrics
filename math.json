@@ -1,0 +1,42 @@
+[
+  {
+    "question": "12 * 13",
+    "answer": "156"
+  },
+  {
+    "question": "25 + 17",
+    "answer": "42"
+  },
+  {
+    "question": "144 / 12",
+    "answer": "12"
+  },
+  {
+    "question": "What is 25 × 12?",
+    "answer": "300"
+  },
+  {
+    "question": "Solve: 144 ÷ 12",
+    "answer": "12"
+  },
+  {
+    "question": "What is the square root of 169?",
+    "answer": "13"
+  },
+  {
+    "question": "If x + 15 = 27, what is x?",
+    "answer": "12"
+  },
+  {
+    "question": "What is 18% of 250?",
+    "answer": "45"
+  },
+  {
+    "question": "What is the derivative of x²?",
+    "answer": "2x"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "cos(x)"
+  }
+]
