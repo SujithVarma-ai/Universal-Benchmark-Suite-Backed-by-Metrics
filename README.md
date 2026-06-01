@@ -37,29 +37,6 @@ Gradio Dashboard
 
 ---
 
-## 📂 Project Structure
-
-```text
-Universal-LLM-Benchmark/
-│
-├── benchmark_project.py
-├── gradio_app.py
-├── requirements.txt
-├── universal.csv
-│
-├── datasets/
-│   ├── math.json
-│   ├── reasoning.json
-│   ├── code.json
-│   ├── consistency.json
-│   ├── hallucination.json
-│   └── latency.json
-│
-└── README.md
-```
-
----
-
 ## 🤖 Supported Models
 
 ### Groq
