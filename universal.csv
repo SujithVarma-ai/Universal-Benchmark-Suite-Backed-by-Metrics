@@ -1,0 +1,4 @@
+Rank,Model,Math,Reasoning,Code,Latency(sec),Latency Score,Consistency,Hallucination Rate,Hallucination Score,Overall
+1,llama-3.3-70b-versatile,100.0,70.0,100.0,2.464,75.36,20.0,40.0,60.0,70.89
+2,qwen/qwen3-coder-30b-a3b-instruct,100.0,80.0,100.0,6.571,34.29,20.0,20.0,80.0,69.05
+3,gemma3:270m,70.0,0.0,100.0,8.75,12.5,60.0,100.0,0.0,40.42
