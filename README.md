@@ -4,6 +4,8 @@ A comprehensive benchmarking framework for evaluating Large Language Models (LLM
 
 The project compares multiple models from different providers such as Groq, OpenRouter, and Ollama, generates benchmark scores, exports results to CSV, and visualizes model performance using an interactive Gradio dashboard.
 
+The framework is extensible and can be integrated with providers such as Gemini, OpenAI, and Claude.
+
 ---
 
 ## 📌 Features
